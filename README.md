@@ -32,7 +32,7 @@ They wanted to focus on getting insights in finance, sales, and supply chain are
 ![marketing view](https://github.com/nabyendukuiti/Business-insight-360/assets/140970847/4eed0047-8c6b-4080-9cbb-ce289759bc92)
 
 ### Supply-Chain View
-![sc view](https://github.com/nabyendukuiti/Business-insight-360/assets/140970847/6b440c51-b17d-4834-a6e8-2c58de040a8c)
+![sc view](https://github.com/nabyendukuiti/Business-insight-360/assets/140970847/fd9b2cc8-1606-4fe9-8fd7-e5e5ffc1694e)
 
 ### Executive View
 ![ex view](https://github.com/nabyendukuiti/Business-insight-360/assets/140970847/057ee4b8-a64e-4636-ae6c-601851b14088)
