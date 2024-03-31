@@ -3,8 +3,10 @@
 ## Table of Contents
 
 - [Introduction](#Introduction)
-- [Power Bi Report](https://www.novypro.com/project/business-insights-360-122)
+- [Objective](#Objective)
 - [Dashboard](#Dashboard)
+- [Power Bi Report](https://www.novypro.com/project/business-insights-360-122)
+
 
 ***
 
@@ -17,7 +19,7 @@ AtliQ collaborates with different types of stores. Physical retail giants like C
 
 In addition to these stores, AtliQ utilizes other distribution channels. They work with both physical and online retailers, collectively known as "Retailers." AtliQ also operates its own stores, AtliQ E-store and AtliQ Exclusive, offering direct sales to customers. Furthermore, they distribute products in bulk to intermediaries called "Distributors," who then sell them to end consumers.
 
-Task:
+## Objective
 - AtliQ Hardware faced big challenges managing data in Excel. Their main goal was to switch from Excel to Power BI to better understand their data. 
 They wanted to focus on getting insights in finance, sales, and supply chain areas. Also create a dashboard to visualize this data transition and insights.
 
